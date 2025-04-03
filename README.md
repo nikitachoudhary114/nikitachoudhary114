@@ -2,7 +2,15 @@
 <h3 align="center">A passionate Full-Stack developer from India</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on MedifyPro<br><br>🌱 I’m currently learning Spring boot, Data Structures & Algorithms, Scalable Backend Architecture<br><br>💬 Ask me about MERN, Next.js, and what ice cream I would like to eat right now! 🍦😆<br><br>📄 Know about my experiences Resume<br><br>⚡ Fun fact My code works perfectly... until I show it to someone! 😅
+- 🔭 I’m currently working on [MedifyPro](https://github.com/nikitachoudhary114/MedifyPro.git)
+
+- 🌱 I’m currently learning **Spring boot, Data Structures & Algorithms, Scalable Backend Architecture**
+
+- 💬 Ask me about **MERN, Next.js, and what ice cream I would like to eat right now! 🍦😆**
+
+- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/14VzUOuZa3XvdiZ7vH7YMMQeR2cQwQEuD/edit?usp=sharing&ouid=112495202936452258613&rtpof=true&sd=true)
+
+- ⚡ Fun fact **My code works perfectly... until I show it to someone! 😅**
 
 
 ## 🌐 Socials:
