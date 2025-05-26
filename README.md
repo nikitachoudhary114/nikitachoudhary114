@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Spring boot, Data Structures & Algorithms, Scalable Backend Architecture**
 
-- 💬 Ask me about **MERN, Next.js, and what ice cream I would like to eat right now! 🍦😆**
+- 💬 Ask me about **MERN, Next.js, any web technolagy and what ice cream I would like to eat right now! 🍦😆**
 
 - 📄 Know about my experiences [Resume](https://docs.google.com/document/d/14VzUOuZa3XvdiZ7vH7YMMQeR2cQwQEuD/edit?usp=sharing&ouid=112495202936452258613&rtpof=true&sd=true)
 
