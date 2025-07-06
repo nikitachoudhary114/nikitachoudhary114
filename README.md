@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full-Stack developer from India</h3>
 
 # 💫 About Me:
-- 🔭 I’m currently working on [MedifyPro](https://github.com/nikitachoudhary114/MedifyPro.git)
+- 🔭 I’m currently working on [LeetPeers](https://github.com/nikitachoudhary114/leetPeers.git)
 
 - 🌱 I’m currently learning **Spring boot, Data Structures & Algorithms, Scalable Backend Architecture**
 
