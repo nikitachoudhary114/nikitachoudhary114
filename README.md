@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **MERN, Next.js, any web technolagy and what ice cream I would like to eat right now! 🍦😆**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/194AqdA5yPIfETSoc3h_8SrEWpwJOb5cw/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1gziu8tOFkHPGv23Y0b7kIqC1V61qgpxb/view?usp=sharing)
 
 - ⚡ Fun fact **My code works perfectly... until I show it to someone! 😅**
 
