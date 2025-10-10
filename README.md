@@ -3,14 +3,16 @@
 
 # 💫 About Me:
 - 🔭 I’m currently working on [LeetPeers](https://github.com/nikitachoudhary114/leetPeers.git)
+- 🌱 I’m currently learning **Spring Boot, Data Structures & Algorithms, Scalable Backend Architecture**
+- 💬 Ask me about **MERN, Next.js, any web technology, and what ice cream I’d like to eat right now! 🍦😆**
+- ⚡ Fun fact: **My code works perfectly... until I show it to someone! 😅**
 
-- 🌱 I’m currently learning **Spring boot, Data Structures & Algorithms, Scalable Backend Architecture**
+<div align="center">
+  <a href="https://nikita-choudhary.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+</div>
 
-- 💬 Ask me about **MERN, Next.js, any web technolagy and what ice cream I would like to eat right now! 🍦😆**
-
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/116cvh1N_D6qC4LPu0dTycw6zDd3mjYxB/view?usp=sharing)
-
-- ⚡ Fun fact **My code works perfectly... until I show it to someone! 😅**
 
 
 ## 🌐 Socials:
