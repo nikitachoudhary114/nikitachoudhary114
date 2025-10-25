@@ -9,7 +9,7 @@
 
 <div align="center">
   <a href="https://nikita-choudhary.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=pink" alt="Portfolio" />
   </a>
 </div>
 
