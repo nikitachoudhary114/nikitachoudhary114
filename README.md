@@ -4,7 +4,7 @@
 # 💫 About Me:
 - 🔭 I’m currently working on [LeetPeers](https://github.com/nikitachoudhary114/leetPeers.git)
 - 🌱 I’m currently learning **WEB3, Scalable Backend Architecture & not cry when Production Breaks**
-- 💬 Ask me about **MERN, Next.js, any web technology, and what ice cream I’d like to eat right now! 🍦😆**
+- 💬 Ask me about **MERN, Next.js, system design, APIs, real-time systems, scalable backends, automation, Web3, and debugging at 2AM 😄**
 - ⚡ Fun fact: **My code works perfectly... until I show it to someone! 😅**
 
 <div align="center">
